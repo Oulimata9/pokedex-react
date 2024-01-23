@@ -21,3 +21,20 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Node Modules
+node_modules/
+
+# Build files
+build/
+dist/
+
+# Cache
+.cache/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
