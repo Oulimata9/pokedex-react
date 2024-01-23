@@ -38,3 +38,5 @@ logs/
 
 # Environment variables
 .env
+
+* text=auto eol=lf
